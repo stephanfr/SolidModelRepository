@@ -1,0 +1,2 @@
+Pulled from Gilbert Bernstein's Cork master library.
+The library is under LGPL, though I haven't a clue how that applies to this file.  Since there is no linkage static or dynamic, I'd hazard a guess it is OK to use with attribution.
