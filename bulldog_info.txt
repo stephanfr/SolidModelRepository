@@ -3,15 +3,29 @@ db/0/m90
 
 mid: 90
 url: http://cepcairo.bizland.com/free/Bulldog.zip
-ref_url: 
-format: xthreexds 
-pid: 46939
-polygons: 3526
-connected_components: 5
-average_dihedral_angle: 0.386676
-bounding_box: xmin = 0.025, ymin = 0.025, zmin = 0.025, xmax = 0.485433, ymax = 0.5735, zmax = 0.975
-avg_depth: 1.102596
-center: (0.255227,0.340593,0.449615)
-scale: 0.631011
-principle_axes: (-0.000007,0.146634,0.989191), (-0.000275,0.989191,-0.146634), (1.000000,0.000273,-0.000034)
-principle_values: (0.075228,0.021933,0.013002)
+Mesh Bounding Box Size 9.694000 11.546000 19.998001
+Mesh Bounding Box Diag 25.044037 
+Mesh Volume is 581.843018
+Mesh Surface is 561.369446
+Mesh Total Len of 5403 Edges is 3277.238770 Avg Len 0.606559
+Mesh Total Len of 5403 Edges is 3277.238770 Avg Len 0.606559 (including faux edges))
+Thin shell barycenter -0.000783 0.856172 -1.100636
+Center of Mass is -0.000972 1.729571 -0.738443
+Inertia Tensor is :
+| 18465.238281 0.354456 0.061716 |
+| 0.354456 17388.146484 -873.730225 |
+| 0.061716 -873.730225 4820.055176 |
+Principal axes are :
+| 0.000006 -0.069022 -0.997615 |
+| -0.000344 0.997615 -0.069022 |
+| 1.000000 0.000343 -0.000017 |
+axis momenta are :
+| 4759.604492 17448.597656 18465.240234 |
+
+V: 1803 E: 5403 F: 3602
+Unreferenced Vertices 0
+Boundary Edges 0
+Mesh is composed by 1 connected component(s) 
+Mesh is two-manifold 
+Mesh has 0 holes
+Genus is 0
