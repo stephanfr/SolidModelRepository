@@ -1,0 +1,37 @@
+Princeton Shape Database
+Model 271
+
+mid: 271
+url: http://www.3dcafe.com/models/deinonyc.zip
+ref_url: http://www.3dcafe.com/asp/anml_pic.asp
+format: xthreexds 
+pid: 27449
+
+V: 8382 E: 24846 F: 16564
+Unreferenced Vertices 0
+Boundary Edges 0
+Mesh is composed by 50 connected component(s) 
+Mesh is two-manifold 
+Mesh has 0 holes
+Genus is 0
+Applied filter Compute Topological Measures in 75 msec 
+
+Mesh Bounding Box Size 19.999985 8.743034 3.305384
+Mesh Bounding Box Diag 22.076359 
+Mesh Volume is 45.060684
+Mesh Surface is 156.884735
+Mesh Total Len of 24846 Edges is 4352.906250 Avg Len 0.175195
+Mesh Total Len of 24846 Edges is 4352.906250 Avg Len 0.175195 (including faux edges))
+Thin shell barycenter 14.235044 5.802248 2.180959
+Center of Mass is 14.296268 5.934505 2.182261
+Inertia Tensor is :
+| 84.329819 -54.044880 -0.356315 |
+| -54.044880 266.596313 0.047903 |
+| -0.356315 0.047903 317.444031 |
+Principal axes are :
+| -0.964397 -0.264454 -0.001335 |
+| -0.264447 0.964392 -0.003898 |
+| -0.002318 0.003406 0.999992 |
+axis momenta are :
+| 69.509254 281.416046 317.444611 |
+Applied filter Compute Geometric Measures in 100 msec 

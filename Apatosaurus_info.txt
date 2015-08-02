@@ -1,0 +1,30 @@
+Apatosaurus.off
+Princeton Shape Database
+Shape 276
+
+mid: 276
+url: http://cepcairo.bizland.com/free/Barosaur.zip
+ref_url: 
+format: xthreexds 
+pid: 46891
+
+Mesh Bounding Box Size 2.471453 7.344631 20.000000
+Mesh Bounding Box Diag 21.448816 
+Mesh Volume is 20.588272
+Mesh Surface is 76.818611
+Mesh Total Len of 6882 Edges is 1568.425781 Avg Len 0.227903
+Mesh Total Len of 6882 Edges is 1568.425781 Avg Len 0.227903 (including faux edges))
+Thin shell barycenter 1.761929 3.191609 12.064716
+Center of Mass is 1.762134 3.264528 12.081930
+Inertia Tensor is :
+| 123.127098 0.001958 0.001443 |
+| 0.001958 105.663872 -25.556396 |
+| 0.001443 -25.556396 27.133251 |
+Principal axes are :
+| -0.000019 0.284506 0.958674 |
+| -0.000148 0.958674 -0.284506 |
+| 1.000000 0.000147 -0.000024 |
+axis momenta are :
+| 19.548891 113.248116 123.127090 |
+Applied filter Compute Geometric Measures in 72 msec 
+
