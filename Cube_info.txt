@@ -1,0 +1,4 @@
+Cube.off
+
+Simple Cube, created by Stephan Friedl
+Public Domain

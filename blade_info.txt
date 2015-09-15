@@ -1,0 +1,38 @@
+blade.off
+
+Scanned Trubine Blade
+From the Georgia Tech Large Geometric Models Archive
+http://www.cc.gatech.edu/projects/large_models/
+
+This model has half the faces of the model in the GT archive.
+
+NB: This model is composed of 295 separate solid objects.
+
+Mesh Bounding Box Size 35.237202 59.793800 27.434601
+Mesh Bounding Box Diag 74.629860 
+Mesh Volume is 8273.077148
+Mesh Surface is 10648.068359
+Mesh Total Len of 1324041 Edges is 240398.390625 Avg Len 0.181564
+Mesh Total Len of 1324041 Edges is 240398.390625 Avg Len 0.181564 (including faux edges))
+Thin shell barycenter 2.286727 -0.560012 -1.141795
+Center of Mass is 1.323191 -8.683289 -1.088512
+Inertia Tensor is :
+| 2045453.875000 -67660.968750 -99969.445313 |
+| -67660.968750 693049.062500 66033.679688 |
+| -99969.445313 66033.679688 2374793.250000 |
+Principal axes are :
+| -0.047066 -0.998233 0.036277 |
+| -0.960368 0.035232 -0.276499 |
+| -0.274732 0.047853 0.960329 |
+axis momenta are :
+| 687459.187500 2019153.875000 2406683.250000 |
+
+
+V: 441607 E: 1324041 F:882694
+Unreferenced Vertices 0
+Boundary Edges 0
+Mesh is composed by 295 connected component(s) 
+Mesh is two-manifold 
+Mesh has 0 holes
+Genus is 165
+

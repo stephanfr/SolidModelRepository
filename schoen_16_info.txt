@@ -1,0 +1,37 @@
+schoen_16.off
+
+
+Seth Moczydlowski
+Creative Commons Share and Share Alike License
+Thingiverse ID: 1011589
+http://www.thingiverse.com/thing:1011589/attribution_card
+
+
+Mesh Bounding Box Size 66.094208 66.146103 66.109215
+Mesh Bounding Box Diag 114.517159 
+Mesh Volume is 29904.371094
+Mesh Surface is 41084.703125
+Mesh Total Len of 150000 Edges is 166402.250000 Avg Len 1.109348
+Mesh Total Len of 150000 Edges is 166402.250000 Avg Len 1.109348 (including faux edges))
+Thin shell barycenter 32.499844 33.333267 32.499748
+Center of Mass is 32.500004 33.332500 32.499626
+Inertia Tensor is :
+| 23324228.000000 177.361282 -184.626648 |
+| 177.361282 22803462.000000 34.919491 |
+| -184.626648 34.919491 23324546.000000 |
+Principal axes are :
+| 0.000339 -1.000000 0.000069 |
+| -0.908942 -0.000337 -0.416922 |
+| -0.416922 -0.000079 0.908942 |
+axis momenta are :
+| 22803472.000000 23324138.000000 23324630.000000 |
+
+V: 49952 E: 150000 F:100000
+Unreferenced Vertices 0
+Boundary Edges 0
+Mesh is composed by 1 connected component(s) 
+Mesh is two-manifold 
+Mesh has 0 holes
+Genus is 25
+
+

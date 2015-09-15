@@ -1,0 +1,6 @@
+horse.off
+
+Equine Model
+From the Georgia Tech Large Geometric Models Archive
+http://www.cc.gatech.edu/projects/large_models/
+
